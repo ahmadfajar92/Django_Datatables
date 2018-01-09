@@ -2,7 +2,7 @@
 # @author : Ahmad Fajar
 # support : ordering single or multiple column, searching from specify column
 # minus : searching from all column, regex
-
+# test commit
 # how to use:
 # first on the client side should be have this 2 params option in your datatables initial script:
 # serverSide : true,
